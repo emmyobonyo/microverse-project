@@ -1,0 +1,7 @@
+.img-responsive {
+  max-width: auto;
+}
+
+img {
+  display: block;
+}
